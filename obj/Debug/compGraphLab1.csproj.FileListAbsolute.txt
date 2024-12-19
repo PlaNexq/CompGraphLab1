@@ -1,0 +1,10 @@
+C:\Users\shaba\OneDrive\УУНИТ\5 Семестр\Основы технологий виртуальной и дополненной реальности\ЛР1\compGraphLab1\bin\Debug\compGraphLab1.exe.config
+C:\Users\shaba\OneDrive\УУНИТ\5 Семестр\Основы технологий виртуальной и дополненной реальности\ЛР1\compGraphLab1\bin\Debug\compGraphLab1.exe
+C:\Users\shaba\OneDrive\УУНИТ\5 Семестр\Основы технологий виртуальной и дополненной реальности\ЛР1\compGraphLab1\bin\Debug\compGraphLab1.pdb
+C:\Users\shaba\OneDrive\УУНИТ\5 Семестр\Основы технологий виртуальной и дополненной реальности\ЛР1\compGraphLab1\obj\Debug\compGraphLab1.csproj.AssemblyReference.cache
+C:\Users\shaba\OneDrive\УУНИТ\5 Семестр\Основы технологий виртуальной и дополненной реальности\ЛР1\compGraphLab1\obj\Debug\compGraphLab1.Form1.resources
+C:\Users\shaba\OneDrive\УУНИТ\5 Семестр\Основы технологий виртуальной и дополненной реальности\ЛР1\compGraphLab1\obj\Debug\compGraphLab1.Properties.Resources.resources
+C:\Users\shaba\OneDrive\УУНИТ\5 Семестр\Основы технологий виртуальной и дополненной реальности\ЛР1\compGraphLab1\obj\Debug\compGraphLab1.csproj.GenerateResource.cache
+C:\Users\shaba\OneDrive\УУНИТ\5 Семестр\Основы технологий виртуальной и дополненной реальности\ЛР1\compGraphLab1\obj\Debug\compGraphLab1.csproj.CoreCompileInputs.cache
+C:\Users\shaba\OneDrive\УУНИТ\5 Семестр\Основы технологий виртуальной и дополненной реальности\ЛР1\compGraphLab1\obj\Debug\compGraphLab1.exe
+C:\Users\shaba\OneDrive\УУНИТ\5 Семестр\Основы технологий виртуальной и дополненной реальности\ЛР1\compGraphLab1\obj\Debug\compGraphLab1.pdb
